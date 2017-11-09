@@ -5,10 +5,9 @@ y
 o
 u
 -
-l
+w
 o
-s
-t
+n
 -
 t
 h
